@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ShervinChila/filenahai",
-    "repository": "https://github.com/ShervinChila/filenahai",
+    "website": "https://github.com/ShervinChila/Eva",
+    "repository": "https://github.com/ShervinChila/Eva",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
