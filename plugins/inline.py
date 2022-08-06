@@ -27,7 +27,7 @@ async def answer(bot, query):
         await query.answer(results=[],
                            cache_time=0,
                            switch_pm_text='رواله',
-                           switch_pm_parameter="هه هه")
+                           switch_pm_parameter="hehe")
         return
 
     if AUTH_CHANNEL and not await is_subscribed(bot, query):
