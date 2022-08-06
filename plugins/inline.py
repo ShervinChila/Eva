@@ -34,7 +34,7 @@ async def answer(bot, query):
         await query.answer(results=[],
                            cache_time=0,
                            switch_pm_text='برای استفاده از ربات باید در کانال عضو باشی',
-                           switch_pm_parameter="عضو شدن")
+                           switch_pm_parameter="subscribe")
         return
 
     results = []
